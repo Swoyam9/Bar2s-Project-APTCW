@@ -1,0 +1,9 @@
+.DS_Store
+target/
+tools/
+*.class
+*.war
+*.ear
+*.log
+.metadata/
+bin/
